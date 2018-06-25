@@ -1,5 +1,6 @@
 python-memcached
 git+https://github.com/ambition-study/ambition-ae.git@develop#egg=ambition_ae
+git+https://github.com/ambition-study/ambition-export.git@develop#egg=ambition_export
 git+https://github.com/ambition-study/ambition-screening.git@develop#egg=ambition_screening
 git+https://github.com/ambition-study/ambition-dashboard.git@develop#egg=ambition_dashboard
 git+https://github.com/ambition-study/ambition-metadata-rules.git@develop#egg=ambition_metadata_rules
@@ -47,10 +48,10 @@ git+https://github.com/botswana-harvard/edc-subject-dashboard.git@develop#egg=ed
 git+https://github.com/botswana-harvard/edc-sync-files.git@develop#egg=edc_sync_files
 git+https://github.com/botswana-harvard/edc-sync.git@develop#egg=edc_sync
 git+https://github.com/botswana-harvard/edc-rest.git@develop#egg=edc_rest
+git+https://github.com/botswana-harvard/edc-pdutils.git@develop#egg=edc_pdutils
 git+https://github.com/botswana-harvard/edc-timepoint.git@develop#egg=edc_timepoint
 git+https://github.com/botswana-harvard/edc-visit-schedule.git@develop#egg=edc_visit_schedule
 git+https://github.com/botswana-harvard/edc-visit-tracking.git@develop#egg=edc_visit_tracking
 git+https://github.com/botswana-harvard/getresults-identifier.git@develop#egg=getresults_identifier
-git+https://github.com/erikvw/django-crypto-fields.git@develop#egg=django_crypto_fields
-git+https://github.com/erikvw/django-revision.git@develop#egg=django_revision
-git+https://github.com/erikvw/django-simple-history.git@master#egg=django_simple_history
+git+https://github.com/botswana-harvard/django-crypto-fields.git@develop#egg=django_crypto_fields
+git+https://github.com/botswana-harvard/django-revision.git@develop#egg=django_revision
